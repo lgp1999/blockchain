@@ -1,4 +1,4 @@
-## ![University Of Karachi](https://github.com/riazahmed0147/blockchain/master/img/img.png)
+## ![University Of Karachi](https://github.com/riazahmed0147/blockchain/blob/master/img/logo.png)
  University Of Karachi - Department Of Computer Science
  **************************************************************** <br>
   Final Year project (2018) for bitcoin blockchain application    <br>
