@@ -1,7 +1,7 @@
-##### University Of Karachi - Department Of Computer Science
+## University Of Karachi - Department Of Computer Science
  **************************************************************** <br>
- * Final Year project (2018) for bitcoin blockchain application * <br>
- * 			Supervisor: Sir Khalid Jamal Hussain		     	* <br>
+  Final Year project (2018) for bitcoin blockchain application    <br>
+  			Supervisor: Sir Khalid Jamal Hussain		          <br>
  **************************************************************** <br>
 
 ### Prequisites
