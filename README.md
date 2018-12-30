@@ -2,12 +2,11 @@
 
 ## University Of Karachi - Department Of Computer Science
 
-<br>
-  **Final Year Project (MCS 2017-2018)**<br>
-  **Project Title**: Bitcoin blockchain Application<br>
-  **Supervisor**: Sir Khalid Jamal Hussain<br>
-  **Members**: Riaz Ahmed, Ayesha Qureshi<br>
- <br>
+**Final Year Project (MCS 2017-2018)**<br>
+**Project Title**: Bitcoin blockchain Application<br>
+**Supervisor**: Sir Khalid Jamal Hussain<br>
+**Members**: Riaz Ahmed, Ayesha Qureshi<br>
+
 
 ### Prequisites
 1. Install Node LTS 8.x.x 
@@ -19,7 +18,7 @@
 ### How To Interact With API
 
 #### Start server
-Run 5 instances on different ports, all should be up and running
+Run 5 instances on different ports, all should be up and running<br>
 > npm run node_1 <br>
 > npm run node_2 <br>
 > npm run node_3 <br>
