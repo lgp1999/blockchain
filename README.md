@@ -1,5 +1,7 @@
-## ![University Of Karachi](https://github.com/riazahmed0147/blockchain/blob/master/img/logo.png)
- University Of Karachi - Department Of Computer Science
+![University Of Karachi](https://github.com/riazahmed0147/blockchain/blob/master/img/logo.png)
+
+## University Of Karachi - Department Of Computer Science
+
  **************************************************************** <br>
   Final Year project (2018) for bitcoin blockchain application    <br>
   			Supervisor: Sir Khalid Jamal Hussain		          <br>
