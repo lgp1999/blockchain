@@ -1,8 +1,8 @@
 ###### University Of Karachi - Department Of Computer Science
- /****************************************************************
- /* Final Year project (2018) for bitcoin blockchain application *
- /* 			Supervisor: Sir Khalid Jamal Hussain		     *
- /****************************************************************
+ /****************************************************************<br />
+ /* Final Year project (2018) for bitcoin blockchain application *<br />
+ /* 			Supervisor: Sir Khalid Jamal Hussain		     *<br />
+ /****************************************************************<br />
 
 #### Prequisites
 1. Install Node LTS 8.x.x 
