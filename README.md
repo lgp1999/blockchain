@@ -1,4 +1,5 @@
-## University Of Karachi - Department Of Computer Science
+## ![University Of Karachi](https://github.com/riazahmed0147/blockchain/master/img/img.png)
+ University Of Karachi - Department Of Computer Science
  **************************************************************** <br>
   Final Year project (2018) for bitcoin blockchain application    <br>
   			Supervisor: Sir Khalid Jamal Hussain		          <br>
@@ -12,7 +13,7 @@
 
 ### How To Interact With API
 
-## Run nodes
+#### Run nodes
 Run 5 instances on different ports, all should be up and running
 > npm run node_1 <br>
 > npm run node_2 <br>
